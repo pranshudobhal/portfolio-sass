@@ -1,2 +1,2 @@
-# Sass Portfolio Tutorial
-This is part of my Sass tutorial on YouTube.
+# Sass Portfolio Website
+Portfolio website made using sass
